@@ -5,11 +5,14 @@
     display: inline-block;
     position: fixed;
     border-radius: 8px;
-    bottom: 10px;
+    bottom: 15px;
     font-size: 20px;
     margin: 4px 2px;
     cursor: pointer;
     background-color: #ffffff;
+    left: 50%;
+    -ms-transform: translateX(-50%);
+    transform: translateX(-50%);
 }
 
 a {
