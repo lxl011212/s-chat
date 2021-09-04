@@ -2,6 +2,7 @@ import React from 'react';
 import { GoogleOutlined } from '@ant-design/icons';
 import firebase from "firebase/app";
 import { auth } from "../firebase";
+import "./Login.css";
 
 const Login = () => {
     return (
