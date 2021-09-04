@@ -1,0 +1,17 @@
+.button {
+    border: none;
+    color: rgb(0, 0, 0);
+    text-align: center;
+    display: inline-block;
+    position: fixed;
+    border-radius: 8px;
+    bottom: 10px;
+    font-size: 20px;
+    margin: 4px 2px;
+    cursor: pointer;
+    background-color: #ffffff;
+}
+
+a {
+    text-decoration: none;
+}

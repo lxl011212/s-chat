@@ -12,7 +12,13 @@ const Login = () => {
                     <GoogleOutlined /> Sign In with Google to start chatting
                 </div>
             </div>
+            <button className="button">
+                <a href="https://github.com/lxl011212/s-chat" target="_blank" rel="noreferrer">
+                    Source Code
+                </a>
+            </button>
         </div>
+        
     )
 }
 
