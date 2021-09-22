@@ -1,15 +1,9 @@
-# Unichat Application
+# S-chat web application
 
-![Chat Application](https://i.ibb.co/GJwyy9m/Bv9-Js3-QLOLY-HD.jpg)
+This is a simple chat application that can be used for live chat between users
 
-## Introduction
+# How to use
 
-This is a code repository for the corresponding video tutorial. In this video, we create a full Realtime Chat Application with Social Auth and dedicated chat APIs/sockets.
+Simply log in with your google account, and you will be redirected to the chat page. From there, you may create chat rooms and add people in your chat. That's all you need to do and you can start chatting with other people.
 
-You will learn how to build a react chat app using [https://chatengine.io](https://chatengine.io)
 
-Firebase and Chat Engine are greats tools to setup apps fast and easily - great to learn with!
-
-### Bonus - E-mail notifications
-
-If you want to upgrade this chat application even further than what is shown in the video, you can add e-mail notifications. More info on https://chatengine.io/docs/email_notifications.
